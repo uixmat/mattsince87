@@ -11,7 +11,6 @@ I'm a Product Designer currently looking for a fresh opportunity. I'm in love wi
 - [Prisma](https://github.com/prisma/prisma)
 - [MongoDB](https://github.com/mongodb/mongo)
 - [Storybook](https://github.com/storybookjs/storybook)
-- [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)
 
 ## 📫 How to reach me ...
 - [Twitter](https://twitter.com/uixmat)
