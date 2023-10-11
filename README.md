@@ -13,7 +13,7 @@ I'm a Product Designer currently looking for a fresh opportunity. I'm in love wi
 - [MongoDB](https://github.com/mongodb/mongo)
 - [Stripe](https://stripe.com)
 - Sometimes [Storybook](https://github.com/storybookjs/storybook)
-- Sometimes [RadixUI]([https://github.com/storybookjs/storybook](https://www.radix-ui.com/))
+- Sometimes [RadixUI](https://www.radix-ui.com/)
 
 ## 📫 How to reach me ...
 - [Twitter](https://twitter.com/uixmat)
