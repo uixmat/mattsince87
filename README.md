@@ -11,7 +11,9 @@ I'm a Product Designer currently looking for a fresh opportunity. I'm in love wi
 - [NextJS 13](https://github.com/vercel/next.js)
 - [Prisma](https://github.com/prisma/prisma)
 - [MongoDB](https://github.com/mongodb/mongo)
+- [Stripe](https://stripe.com)
 - Sometimes [Storybook](https://github.com/storybookjs/storybook)
+- Sometimes [RadixUI]([https://github.com/storybookjs/storybook](https://www.radix-ui.com/))
 
 ## 📫 How to reach me ...
 - [Twitter](https://twitter.com/uixmat)
