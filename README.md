@@ -12,8 +12,9 @@ I'm a Product Designer currently looking for a fresh opportunity. I'm in love wi
 - [Prisma](https://github.com/prisma/prisma)
 - [MongoDB](https://github.com/mongodb/mongo)
 - [Stripe](https://stripe.com)
-- Sometimes [Storybook](https://github.com/storybookjs/storybook)
-- Sometimes [RadixUI](https://www.radix-ui.com/)
+- [Storybook](https://github.com/storybookjs/storybook)
+- [RadixUI](https://www.radix-ui.com/)
+- [Motion](https://motion.dev) _Framer Motion_
 
 ## 📫 How to reach me ...
 - [Twitter](https://twitter.com/uixmat)
