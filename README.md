@@ -1,4 +1,4 @@
-# Welcome to my Github 
+# Hey!
 
 - 👋 I’m Matt, a Design Engineer
 - 👀 Interested in creating Design Systems, Web and Native app development.
